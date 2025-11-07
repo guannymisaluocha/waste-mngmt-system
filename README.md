@@ -8,13 +8,13 @@ A website created for a certain research from a certain subject.
 Clone the project
 
 ```bash
-  git clone https://github.com/wardislit/waste-mngmt-system.git
+  git clone https://github.com/your-username/waste-mngmt-system.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd .../waste-mngmt-system
+  cd waste-mngmt-system
 ```
 
 Install dependencies if ever ([npm](https://www.npmjs.com/))
@@ -34,7 +34,7 @@ cd project-name
 git remote add upstream https://github.com/original-owner/project-name.git
 
 # 3. Create a new branch for your feature or fix
-git checkout -b feature/my-awesome-change
+git checkout -b feature/my-awesome-change #<- Branch Name
 
 # 4. Make your changes, commit, and push
 git add .
