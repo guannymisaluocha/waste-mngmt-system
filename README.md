@@ -35,7 +35,7 @@ A website created for a certain research from a certain subject.
 
 ```bash
 npm run dev
-```
+``` 
 
 ## Cloning and Pushing:
 
